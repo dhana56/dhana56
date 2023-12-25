@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1QciyYteG8CViBk9_rnR_gQqRRlCaCZcA/view?usp=sharing)
 
-- ⚡ Fun fact **Still Figuring Out😉**
+- ⚡ Fun fact **Still Figuring Out😉 !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
