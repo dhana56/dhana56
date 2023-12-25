@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhana</h1>
-<h3 align="center">Aspiring computational & bioinformatics researcher</h3>
+<h3 align="center">Aspiring computational biologist & bioinformatics researcher</h3>
 
-- 👯 I’m looking to collaborate on **Computational and Bioinformatics Projects**
+-  I’m looking to collaborate on **Computational and Bioinformatics Projects**
 
 - 💬 Ask me about **Python, web page developments, Bioinformatics and Computational Biology**
 
@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **Still Figuring Out😉 !**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
