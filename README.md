@@ -3,11 +3,11 @@
 
 - 👯 I’m looking to collaborate on **Computational and Bioinformatics Projects**
 
-- 💬 Ask me about **Python, Webpage developments, Bioinformatics and Computational Biology**
+- 💬 Ask me about **Python, web page developments, Bioinformatics and Computational Biology**
 
 - 📫 How to reach me **dhanasekharvk@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QciyYteG8CViBk9_rnR_gQqRRlCaCZcA/view?usp=sharing](https://drive.google.com/file/d/1QciyYteG8CViBk9_rnR_gQqRRlCaCZcA/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1QciyYteG8CViBk9_rnR_gQqRRlCaCZcA/view?usp=sharing)
 
 - ⚡ Fun fact **Still Figuring Out😉**
 
