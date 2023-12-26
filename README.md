@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1QciyYteG8CViBk9_rnR_gQqRRlCaCZcA/view?usp=sharing)
 
-- ⚡ Fun fact **Still Figuring Out😉 !**
+- ⚡ Fun fact ** I Like pretty much everything, what about you? 😉**
 
 <p align="left">
 </p>
