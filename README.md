@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I Like pretty much everything, what about you? 😉**
 ## 🌐 Socials: Let's connect
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pho_dhanaskarvk_7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/dhanasekhar-v-k-975b31253) 
-[![Gmail](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=gmail&logoColor=white)](dhanasekharvk@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=gmail&logoColor=white)](mailto:dhanasekharvk@gmail.com) 
 
 <p align="left">
 </p>
