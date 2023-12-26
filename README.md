@@ -1,6 +1,6 @@
-![Header Image](https://github.com/dhana56/dhana56/blob/main/A%20minimalist%20image%20with%20169%20aspect%20ratio%20and%20the%20text%20'Hi%20there%2C%20I'm%20Dhana'%20in%20it%20for%20a%20githu%201.gif)
 
-<h1 align="center">Hi 👋, I'm Dhana</h1>
+<img src="https://github.com/dhana56/dhana56/blob/main/A%20minimalist%20image%20with%20169%20aspect%20ratio%20and%20the%20text%20'Hi%20there%2C%20I'm%20Dhana'%20in%20it%20for%20a%20githu%201.gif" alt="Hi there, I am Dhana"  height= 300 width="900"/>
+
 <h3 align="center">Aspiring computational biologist & bioinformatics researcher </h3>
 
 -  I’m looking to collaborate on **Computational and Bioinformatics Projects**
