@@ -1,5 +1,5 @@
 
-<img align="center" src="https://github.com/dhana56/dhana56/blob/main/Design.gif" alt="Hi there, I am Dhana" />
+<img align="center" src="https://github.com/dhana56/dhana56/blob/main/Design%20(1).gif" alt="Hi there, I am Dhana" />
 
 <h3 align="center">Aspiring computational biologist & bioinformatics researcher ✨🎯 </h3>
 
