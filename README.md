@@ -5,7 +5,7 @@
 
 -  I’m looking to collaborate on **Computational and Bioinformatics Projects**
 
--  Ask me about **Python, web page developments, Bioinformatics and Computational Biology**
+-  Ask me about **Python, web page developments, Bioinformatics and Computational Biology, Ml & Data Science**
 
 -  Know about my experiences: [Resume here](https://drive.google.com/file/d/1QciyYteG8CViBk9_rnR_gQqRRlCaCZcA/view?usp=sharing)
 
