@@ -1,7 +1,7 @@
 
 <img align="center" src="https://github.com/dhana56/dhana56/blob/main/Design%20(1).gif" alt="Hi there, I am Dhana" />
 
-<h3 align="center">Aspiring computational biologist & bioinformatics researcher ✨🎯 </h3>
+<h3 align="center">✨🧬Aspiring computational biologist & bioinformatics researcher ✨🧬 </h3>
 
 -  I’m looking to collaborate on **Computational and Bioinformatics Projects**
 
@@ -10,7 +10,7 @@
 -  Know about my experiences: [Resume here](https://drive.google.com/file/d/1QciyYteG8CViBk9_rnR_gQqRRlCaCZcA/view?usp=sharing)
 
 - ⚡ Fun fact **I Like pretty much everything, what about you? 😉**
-## Let's connect!
+## 📲Let's connect!
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/dhanasekhar-v-k-975b31253) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pho_dhanaskarvk_7)
 
