@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhana</h1>
-<h3 align="center">Aspiring computational biologist & bioinformatics researcher 🧠</h3>
+<h3 align="center">Aspiring computational biologist & bioinformatics researcher </h3>
 
 -  I’m looking to collaborate on **Computational and Bioinformatics Projects**
 
