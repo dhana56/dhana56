@@ -1,5 +1,5 @@
 
-<img src="https://github.com/dhana56/dhana56/blob/main/A%20minimalist%20image%20with%20169%20aspect%20ratio%20and%20the%20text%20'Hi%20there%2C%20I'm%20Dhana'%20in%20it%20for%20a%20githu%201.gif" alt="Hi there, I am Dhana"  height= 375 width="900"/>
+<img src="https://github.com/dhana56/dhana56/blob/main/A%20minimalist%20image%20with%20169%20aspect%20ratio%20and%20the%20text%20'Hi%20there%2C%20I'm%20Dhana'%20in%20it%20for%20a%20githu%201.gif" alt="Hi there, I am Dhana"  height= 250 width="700"/>
 
 <h3 align="center">Aspiring computational biologist & bioinformatics researcher </h3>
 
