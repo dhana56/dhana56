@@ -2,15 +2,17 @@
 <img align="center" src="https://github.com/dhana56/dhana56/blob/main/Design%20(1).gif" alt="Hi there, I am Dhana" />
 
 <h3 align="center">✨🧬Aspiring computational biologist & bioinformatics researcher ✨🧬 </h3>
-
+<div style="display:flex; justify-content:space-between;">
 -  I’m looking to collaborate on **Computational and Bioinformatics Projects**
 
 -  Ask me about **Python, web page developments, Bioinformatics and Computational Biology, ML & Data Science**
 
 -  Know about my experiences: [Resume here](https://drive.google.com/file/d/1QciyYteG8CViBk9_rnR_gQqRRlCaCZcA/view?usp=sharing)
 -  Reach out to me via dhanasekharvk@gmail.com
+- Fun fact **I Like pretty much everything, what about you? 😉**
+ <img src="https://github.com/dhana56/dhana56/blob/main/_fd14d811-370e-4094-aec3-f3b5b72b9d7c.jpeg" alt="Image 1" width="200"/>
+</div>
 
- ⚡ Fun fact **I Like pretty much everything, what about you? 😉**
 ## 📲Let's connect!
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/dhanasekhar-v-k-975b31253) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pho_dhanaskarvk_7)
