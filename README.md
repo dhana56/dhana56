@@ -10,7 +10,6 @@
 -  Know about my experiences: [Resume here](https://drive.google.com/file/d/1QciyYteG8CViBk9_rnR_gQqRRlCaCZcA/view?usp=sharing)
 -  Reach out to me via dhanasekharvk@gmail.com
 - Fun fact **I Like pretty much everything, what about you? 😉**
- <img src="https://github.com/dhana56/dhana56/blob/main/_fd14d811-370e-4094-aec3-f3b5b72b9d7c.jpeg" alt="Image 1" width="200"/>
 </div>
 
 ## 📲Let's connect!
