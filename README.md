@@ -5,9 +5,10 @@
 
 -  I’m looking to collaborate on **Computational and Bioinformatics Projects**
 
--  Ask me about **Python, web page developments, Bioinformatics and Computational Biology, Ml & Data Science**
+-  Ask me about **Python, web page developments, Bioinformatics and Computational Biology, ML & Data Science**
 
 -  Know about my experiences: [Resume here](https://drive.google.com/file/d/1QciyYteG8CViBk9_rnR_gQqRRlCaCZcA/view?usp=sharing)
+-  Reach out to me via dhanasekharvk@gmail.com
 
  ⚡ Fun fact **I Like pretty much everything, what about you? 😉**
 ## 📲Let's connect!
