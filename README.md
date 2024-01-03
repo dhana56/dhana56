@@ -7,7 +7,7 @@
 -  Ask me about **Python, web page developments, Bioinformatics and Computational Biology, ML & Data Science**
 -  Know about my experiences: [Resume here](https://drive.google.com/file/d/1F9IXjeBBj_BRtjCuTAltHpsuja03F0cB/view?usp=sharing)
 -  Reach out to me via dhanasekharvk@gmail.com
-- Fun fact **I Like pretty much everything, what about you? 😉**
+- Fun fact: **I Like pretty much everything, what about you? 😉**
 
 
 ## 📲Let's connect!
