@@ -3,9 +3,9 @@
 
 <h3 align="center">✨🧬Aspiring computational biologist & bioinformatics researcher ✨🧬 </h3>
 
-- I’m looking to collaborate on **Computational and Bioinformatics Projects**
--  Ask me about **Python, web page developments, Bioinformatics and Computational Biology, ML & Data Science**
--  Know about my experiences: [Resume here](https://drive.google.com/file/d/1F9IXjeBBj_BRtjCuTAltHpsuja03F0cB/view?usp=sharing)
+- I’m looking forward to collaborating on **Computational and Bioinformatics Projects**
+-  Ask me about **Python, Web Development, Bioinformatics and Computational Biology, ML & Data Science**
+-  Know about my experiences: [Resume is here](https://drive.google.com/file/d/1F9IXjeBBj_BRtjCuTAltHpsuja03F0cB/view?usp=sharing)
 -  Reach out to me via dhanasekharvk@gmail.com
 - Fun fact: **I Like pretty much everything, what about you? 😉**
 
