@@ -1,7 +1,7 @@
 <div align="center">
   <img align="center" src="Design.gif" alt="Hi there, I am Dhana" width="100%" />
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Decoding+Life+Through+Code;🧬+Computational+Biology+Explorer;Python+%2B+Biology+%3D+💚;Building+Digital+DNA)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Decoding+Life+Through+Code;🧬+Computational+Biology+Explorer;Computation+%2B+Biology+%2B+Math;Building+Digital+DNA)](https://git.io/typing-svg)
 
   <div align="center">
     <a href="https://drive.google.com/file/d/1udogJnLogZG3-_tfQpZjgN1DnbuN6n0H/view?usp=sharing">
