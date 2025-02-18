@@ -23,12 +23,11 @@ class ComputationalBiologist:
         self.role = "Computational Biology Explorer"
         self.location = "India 🇮🇳"
         self.education = {
-            "degree": "Masters in Bioinformatics",
+            "degree": "BS-MS dual degree, Majors in Biology & MInors in Datascience, IISER Mohali",
             "interests": ["Genomics", "ML in Biology", "Data Science"]
         }
         self.skills = {
             "languages": ["Python", "R", "Bash", "DNA/RNA"],
-            "bio_tools": ["BioPython", "Blast", "PyMOL"],
             "ml_tools": ["TensorFlow", "PyTorch", "Scikit-learn"],
             "databases": ["MongoDB", "MySQL"]
         }
@@ -62,19 +61,19 @@ me = ComputationalBiologist()
 
 ```python
 tech_stack = {
-    "bioinformatics": ["BioPython", "BLAST", "PyMOL", "Galaxy"],
+    "bioinformatics": ["BioPython", "BLAST"],
     "data_science": ["Pandas", "NumPy", "SciPy", "Matplotlib"],
     "machine_learning": ["TensorFlow", "PyTorch", "Scikit-learn"],
-    "web_dev": ["Flask", "FastAPI", "HTML/CSS"],
-    "databases": ["MongoDB", "MySQL", "Neo4j"],
-    "tools": ["Git", "Docker", "Linux", "AWS"]
+    "web_dev": ["Flask", "HTML/CSS"],
+    "databases": ["MongoDB", "MySQL",],
+    "tools": ["Git", "Linux"]
 }
 ```
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-Advanced-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bioinformatics-Specialist-00C805?style=for-the-badge&logo=dna&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coding-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Biology-Advanced-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Theoretical Analysis-Intermediate-00C805?style=for-the-badge&logo=dna&logoColor=white" />
 </div>
 
 ### 🎯 Current Projects
@@ -102,6 +101,5 @@ tech_stack = {
 <div align="center">
   <h3>"Debugging the Code of Life, One Gene at a Time" 🧬</h3>
 </div>
-````
 
 
