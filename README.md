@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" src="Design.gif" alt="Hi there, I am Dhana" width="100%" />
+  <img src="Design.gif" alt="Hi there, I am Dhana" width="100%" />
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Decoding+Life+Through+Code;🧬+Computational+Biology+Explorer;Computation+%2B+Biology+%2B+Math;Building+Digital+DNA)](https://git.io/typing-svg)
 
@@ -37,31 +37,29 @@ class ComputationalBiologist:
 
 me = ComputationalBiologist()
 ```
-<!-- 
+
 ### 🔬 Research Interests
 
-- 🧬 **Genomics & NGS Analysis**: DNA/RNA-seq data processing and variant calling
+<!-- - 🧬 **Genomics & NGS Analysis**: DNA/RNA-seq data processing and variant calling -->
 - 🤖 **Machine Learning in Biology**: Deep learning for protein structure prediction
 - 📊 **Biostatistics**: Statistical analysis of biological data
-- 🦠 **Systems Biology**: Modeling biological networks and pathways -->
+- 🦠 **Systems Biology**: Modeling biological networks and pathways
 
 ### 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhana56&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="Dhana's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhana56&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhana56&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="Dhana's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhana56&theme=radical&hide_border=true&count_private=true" width="48%" />
 </div>
-
-<!-- Add Language Statistics -->
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhana56&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" alt="Language Stats"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhana56&theme=radical&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
-</div> -->
 
 ### 📊 Language Analytics
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhana56&layout=donut&theme=radical&hide_border=true&langs_count=8" width="40%" alt="Language Distribution"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhana56&layout=donut&theme=radical&hide_border=true&langs_count=8&count_private=true" width="40%" alt="Language Distribution"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhana56&theme=radical&hide_border=true&custom_title=Contribution%20Graph&include_all_commits=true" width="100%" />
 </div>
 
 ### 💻 Tech Stack
@@ -72,11 +70,10 @@ tech_stack = {
     "data_science": ["Pandas", "NumPy", "SciPy", "Matplotlib"],
     "machine_learning": ["TensorFlow", "PyTorch", "Scikit-learn"],
     "web_dev": ["Flask", "HTML/CSS"],
-    "databases": ["MongoDB", "MySQL",],
+    "databases": ["MongoDB", "MySQL"],
     "tools": ["Git", "Linux"]
 }
 ```
-
 
 <div align="center">
   <img src="https://img.shields.io/badge/🧑‍💻_Coding-90%25-3776AB?style=flat-square" />
@@ -91,12 +88,6 @@ tech_stack = {
 - 🤖 Building AI tools for genomic data interpretation
 - 📱 Developing bioinformatics web applications
 
-<!-- ### 📚 Latest Publications & Blog Posts
-
-- 🔬 [Title of Your Recent Publication/Blog Post 1](#)
-- 📝 [Title of Your Recent Publication/Blog Post 2](#)
-- 🧬 [Title of Your Recent Publication/Blog Post 3](#) -->
-
 ### 🤝 Let's Connect!
 
 <div align="center">
@@ -109,5 +100,3 @@ tech_stack = {
 <div align="center">
   <h3>"Debugging the Code of Life, One Gene at a Time" 🧬</h3>
 </div>
-
-
