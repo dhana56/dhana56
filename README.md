@@ -7,9 +7,9 @@
     <a href="https://drive.google.com/file/d/1udogJnLogZG3-_tfQpZjgN1DnbuN6n0H/view?usp=sharing">
       <img src="https://custom-icon-badges.demolab.com/badge/-Download%20CV-F25278?style=for-the-badge&logo=download&logoColor=white" alt="Download CV"/>
     </a>
-    <a href="https://drive.google.com/file/d/1udogJnLogZG3-_tfQpZjgN1DnbuN6n0H/view?usp=sharing">
+    <!-- <a href="https://drive.google.com/file/d/1udogJnLogZG3-_tfQpZjgN1DnbuN6n0H/view?usp=sharing">
       <img src="https://img.shields.io/badge/View%20Portfolio-12100E?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio"/>
-    </a>
+    </a> -->
   </div>
 </div>
 
