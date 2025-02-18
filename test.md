@@ -7,15 +7,22 @@
     <a href="https://drive.google.com/file/d/1udogJnLogZG3-_tfQpZjgN1DnbuN6n0H/view?usp=sharing">
       <img src="https://custom-icon-badges.demolab.com/badge/-Download%20CV-F25278?style=for-the-badge&logo=download&logoColor=white" alt="Download CV"/>
     </a>
-    <!-- <a href="https://drive.google.com/file/d/1udogJnLogZG3-_tfQpZjgN1DnbuN6n0H/view?usp=sharing">
-      <img src="https://img.shields.io/badge/View%20Portfolio-12100E?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio"/>
-    </a> -->
   </div>
 </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dhana56&theme=radical&row=1&column=6&no-frame=true&no-bg=true" width="100%" />
 </div>
+
+---
+
+### 🏆 Highlights
+
+- **Computational Biology Explorer** with a focus on Genomics & Protein Structure Prediction  
+- **Skilled in** Python, R, ML, and Data Science  
+- **Driven by** a passion for decoding the mysteries of life through technology  
+
+---
 
 <table border="0">
 <tr>
@@ -34,7 +41,8 @@ class BioInformatician:
             "mission": "Decoding life's mysteries"
         }
         
-    def greet(self): return "Let's decode life together 🧬"
+    def greet(self): 
+        return "Let's decode life together 🧬"
 
 me = BioInformatician()
 print(me.greet())
@@ -65,6 +73,8 @@ current_work = {
 </tr>
 </table>
 
+---
+
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -79,30 +89,30 @@ current_work = {
     </tr>
   </table>
 
-  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhana56&theme=radical&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph"/>
 </div>
+
+---
 
 ### 🧪 Tech Stack & Tools
 
 <div align="center">
+  <!-- Core Skills -->
+  <img src="https://img.shields.io/badge/Python-⭐⭐⭐⭐⭐-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-⭐⭐⭐⭐-276DC3?style=flat-square&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-⭐⭐⭐⭐-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</div>
 
-![Python](https://img.shields.io/badge/Python-⭐⭐⭐⭐⭐-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-⭐⭐⭐⭐-276DC3?style=flat-square&logo=r&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-⭐⭐⭐⭐-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-<div>
+<div align="center" style="margin-top: 10px;">
+  <!-- Libraries & Frameworks -->
   <img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-Computation-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</div>
-
-<div>
   <img src="https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
-</div>
+---
 
 ### 🔗 Let's Connect!
 
@@ -112,10 +122,8 @@ current_work = {
   <a href="https://instagram.com/pho_dhanaskarvk_7"><img src="https://img.shields.io/badge/-Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhana56&style=for-the-badge&color=blueviolet" />
-  
+<div align="center" style="margin-top: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=dhana56&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+
   ### "The code of life is waiting to be debugged" 🧬
 </div>
-
-
