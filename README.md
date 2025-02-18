@@ -3,7 +3,15 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Decoding+Life+Through+Code;🧬+Computational+Biology+Explorer;Python+%2B+Biology+%3D+💚;Building+Digital+DNA)](https://git.io/typing-svg)
 
-  [![Research Journey](https://img.shields.io/badge/View_My_Research_Journey-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://drive.google.com/file/d/1udogJnLogZG3-_tfQpZjgN1DnbuN6n0H/view?usp=sharing)
+  <div class="cv-button" style="margin: 20px 0;">
+    <a href="https://drive.google.com/file/d/1udogJnLogZG3-_tfQpZjgN1DnbuN6n0H/view?usp=sharing">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Download_CV-111827?style=for-the-badge&logo=readthedocs&logoColor=white">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Download_CV-F5F5F5?style=for-the-badge&logo=readthedocs&logoColor=333">
+        <img alt="Download CV" src="https://img.shields.io/badge/Download_CV-111827?style=for-the-badge&logo=readthedocs&logoColor=white">
+      </picture>
+    </a>
+  </div>
 </div>
 
 <div align="center">
@@ -110,3 +118,4 @@ current_work = {
   
   ### "The code of life is waiting to be debugged" 🧬
 </div>
+
