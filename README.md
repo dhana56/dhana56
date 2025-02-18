@@ -28,6 +28,7 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <div style="flex: 1; min-width: 300px; max-width: 45%;">
+    <pre>
     ```python
     class BioInformatician:
         def __init__(self):
@@ -45,6 +46,7 @@
     me = BioInformatician()
     print(me.greet())
     ```
+    </pre>
   </div>
   <div style="flex: 1; min-width: 300px; max-width: 45%;">
     <img src="https://github-readme-stats.vercel.app/api?username=dhana56&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Dhana's GitHub Stats" style="max-width: 100%;" />
@@ -55,6 +57,7 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <div style="flex: 1; min-width: 300px; max-width: 45%;">
+    <pre>
     ```python
     current_work = {
         "domains": [
@@ -67,6 +70,7 @@
         "projects": "Open Source Bio-Tools"
     }
     ```
+    </pre>
   </div>
   <div style="flex: 1; min-width: 300px; max-width: 45%;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhana56&theme=radical&hide_border=true" width="100%" />
@@ -124,5 +128,6 @@
   
   ### "The code of life is waiting to be debugged" 🧬
 </div>
+````
 
 
