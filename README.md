@@ -58,14 +58,22 @@ current_work = {
 </tr>
 </table>
 
-### 📊 Code Stats & Language Distribution
+### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Language Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhana56&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=320" alt="Most Used Languages"/>
-  
-  <!-- Contribution Stats -->
-  <img src="https://github-contribution-stats.vercel.app/api/?username=dhana56" alt="Contribution Stats"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhana56&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6" alt="Most Used Languages"/>
+      </td>
+      <td>
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhana56&theme=tokyonight&utcOffset=8" alt="Coding Activity"/>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhana56&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph"/>
 </div>
 
 ### 🧪 Tech Stack & Tools
@@ -102,4 +110,3 @@ current_work = {
   
   ### "The code of life is waiting to be debugged" 🧬
 </div>
-````
