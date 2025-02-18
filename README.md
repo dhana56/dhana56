@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhana56&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dhana56&theme=radical&row=1&column=6&no-frame=true&no-bg=true" width="100%" />
 </div>
 
 <table border="0">
@@ -40,7 +40,7 @@ me = BioInformatician()
 print(me.greet())
 ```
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dhana56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dhana's GitHub Stats" style="max-width: 100%;" />
+<img src="https://github-readme-stats.vercel.app/api?username=dhana56&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Dhana's GitHub Stats" style="max-width: 100%;" />
 
 </td>
 <td width="45%">
@@ -59,7 +59,7 @@ current_work = {
 }
 ```
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhana56&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhana56&theme=radical&hide_border=true" width="100%" />
 
 </td>
 </tr>
@@ -71,7 +71,7 @@ current_work = {
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhana56&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6" alt="Most Used Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhana56&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6" alt="Most Used Languages"/>
       </td>
       <td>
         <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhana56&theme=tokyonight&utcOffset=8" alt="Coding Activity"/>
@@ -80,7 +80,7 @@ current_work = {
   </table>
 
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhana56&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhana56&theme=radical&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph"/>
 </div>
 
 ### 🧪 Tech Stack & Tools
@@ -117,4 +117,5 @@ current_work = {
   
   ### "The code of life is waiting to be debugged" 🧬
 </div>
+````
 
