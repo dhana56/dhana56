@@ -70,10 +70,11 @@ tech_stack = {
 }
 ```
 
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Coding-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Biology-Advanced-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Theoretical Analysis-Intermediate-00C805?style=for-the-badge&logo=dna&logoColor=white" />
+  <img src="https://img.shields.io/badge/🧑‍💻_Coding-90%25-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/🧬_Biology-85%25-276DC3?style=flat-square" />
+  <img src="https://img.shields.io/badge/📊_Analysis-80%25-00C805?style=flat-square" />
 </div>
 
 ### 🎯 Current Projects
