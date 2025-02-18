@@ -53,6 +53,11 @@ me = ComputationalBiologist()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhana56&theme=radical&hide_border=true" width="48%" />
 </div>
 
+<!-- Add this new section for the activity graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhana56&theme=radical&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+</div>
+
 ### 💻 Tech Stack
 
 ```python
@@ -97,5 +102,6 @@ tech_stack = {
 <div align="center">
   <h3>"Debugging the Code of Life, One Gene at a Time" 🧬</h3>
 </div>
+````
 
 
