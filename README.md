@@ -33,7 +33,7 @@ me = BioInformatician()
 print(me.greet())
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhana56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=dhana56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="Dhana's GitHub Stats" style="max-width: 100%;" />
 
 </td>
 <td width="45%">
