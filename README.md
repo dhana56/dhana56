@@ -60,7 +60,7 @@ me = ComputationalBiologist()
 
 ### 📊 Language Analytics
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhana56&layout=donut&theme=radical&hide_border=true&langs_count=8" width="40%" alt="Language Distribution"/>
 </div>
 
