@@ -37,13 +37,13 @@ class ComputationalBiologist:
 
 me = ComputationalBiologist()
 ```
-
+<!-- 
 ### 🔬 Research Interests
 
 - 🧬 **Genomics & NGS Analysis**: DNA/RNA-seq data processing and variant calling
 - 🤖 **Machine Learning in Biology**: Deep learning for protein structure prediction
 - 📊 **Biostatistics**: Statistical analysis of biological data
-- 🦠 **Systems Biology**: Modeling biological networks and pathways
+- 🦠 **Systems Biology**: Modeling biological networks and pathways -->
 
 ### 📈 GitHub Statistics
 
