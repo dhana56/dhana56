@@ -1,129 +1,106 @@
 <div align="center">
-  <img align="center" src="Design.gif" alt="Hi there, I am Dhana" width="100%" />
+  <img src="header.gif" alt="Computational Biology Banner" width="100%" />
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Decoding+Life+Through+Code;🧬+Computational+Biology+Explorer;Computation+%2B+Biology+%2B+Math;Building+Digital+DNA)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=4000&pause=1000&color=6E57E4&center=true&vCenter=true&random=false&width=600&height=70&lines=Computational+Biology+Explorer+🧬;Building+Digital+DNA+🔬;ML+%2B+Biology+%2B+Data+Science+⚡)](https://git.io/typing-svg)
 
-  <div align="center">
-    <a href="https://drive.google.com/file/d/1udogJnLogZG3-_tfQpZjgN1DnbuN6n0H/view?usp=sharing">
-      <img src="https://custom-icon-badges.demolab.com/badge/-Download%20CV-F25278?style=for-the-badge&logo=download&logoColor=white" alt="Download CV"/>
-    </a>
-  </div>
+  <a href="your-cv-link">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Download_CV-6E57E4?style=for-the-badge&logo=download&logoColor=white"/>
+  </a>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=dhana56&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhana56&theme=radical&row=1&column=6&no-frame=true&no-bg=true" width="100%" />
-</div>
+<details open>
+<summary><h2>🧬 About Me</h2></summary>
 
----
-
-### 🏆 Highlights
-
-- **Computational Biology Explorer** with a focus on Genomics & Protein Structure Prediction  
-- **Skilled in** Python, R, ML, and Data Science  
-- **Driven by** a passion for decoding the mysteries of life through technology  
-
----
-
-<table border="0">
-<tr>
-<td width="55%">
-
-### 🧬 Bio.init()
 ```python
 class BioInformatician:
     def __init__(self):
         self.name = "Dhanasekhar V K"
-        self.role = "Computational Biology Explorer"
-        self.stack = {
-            "languages": ["Python", "R", "DNA"],
-            "interests": ["Bioinformatics", "ML", 
-                         "Data Science"],
-            "mission": "Decoding life's mysteries"
+        self.role = "Computational Biologist"
+        self.location = "India 🇮🇳"
+        self.skills = {
+            "languages": ["Python", "R", "Bash"],
+            "bio_tools": ["BioPython", "BLAST", "PyMOL"],
+            "ml_tools": ["TensorFlow", "PyTorch", "Scikit-learn"],
+            "databases": ["MongoDB", "MySQL"]
         }
-        
-    def greet(self): 
-        return "Let's decode life together 🧬"
+        self.interests = ["Genomics", "ML in Biology", "NGS Analysis"]
+    
+    def get_bio(self):
+        return "Decoding life's complexity through computation 🧬"
 
 me = BioInformatician()
-print(me.greet())
+print(me.get_bio())
+```
+</details>
+
+<details open>
+<summary><h2>📊 GitHub Analytics</h2></summary>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhana56&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=dhana56&theme=tokyonight&hide_border=true"/>
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhana56&theme=tokyonight&hide_border=true&layout=compact"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhana56&theme=tokyonight"/>
+  
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhana56&theme=tokyo-night&hide_border=true"/>
+</div>
+</details>
+
+<details open>
+<summary><h2>💻 Tech Stack</h2></summary>
+<div align="center">
+
+```mermaid
+mindmap
+  root((Tech Stack))
+    Bioinformatics
+      BioPython
+      BLAST
+      PyMOL
+    Programming
+      Python
+      R
+      Bash
+    Data Science
+      NumPy
+      Pandas
+      Matplotlib
+    Machine Learning
+      TensorFlow
+      PyTorch
+      Scikit-learn
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhana56&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Dhana's GitHub Stats" style="max-width: 100%;" />
+  <img src="https://skillicons.dev/icons?i=python,r,bash,tensorflow,pytorch,mongodb,mysql,git,linux&theme=dark" alt="Skills"/>
+  
+  <div>
+    <img src="https://img.shields.io/badge/Computational_Skills-90%25-6E57E4?style=for-the-badge&labelColor=1a1b27"/>
+    <img src="https://img.shields.io/badge/Biological_Analysis-85%25-6E57E4?style=for-the-badge&labelColor=1a1b27"/>
+    <img src="https://img.shields.io/badge/Research-80%25-6E57E4?style=for-the-badge&labelColor=1a1b27"/>
+  </div>
+</div>
+</details>
 
-</td>
-<td width="45%">
+<details open>
+<summary><h2>🔬 Current Research</h2></summary>
 
-### 🔬 Research Focus
-```python
-current_work = {
-    "domains": [
-        "Computational Biology",
-        "ML in Genomics",
-        "Protein Structure Prediction"
-    ],
-    "tools": ["BioPython", "PyTorch", 
-              "TensorFlow"],
-    "projects": "Open Source Bio-Tools"
-}
-```
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhana56&theme=radical&hide_border=true" width="100%" />
-
-</td>
-</tr>
-</table>
-
----
-
-### 📊 GitHub Analytics
+- 🧬 **Genomic Analysis**: NGS data processing & variant calling
+- 🤖 **AI in Biology**: Deep learning for protein structure prediction
+- 📊 **Data Analysis**: Biostatistics & computational modeling
+- 🦠 **Systems Biology**: Biological network analysis
+</details>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhana56&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6" alt="Most Used Languages"/>
-      </td>
-      <td>
-        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhana56&theme=tokyonight&utcOffset=8" alt="Coding Activity"/>
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhana56&theme=radical&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph"/>
-</div>
-
----
-
-### 🧪 Tech Stack & Tools
-
-<div align="center">
-  <!-- Core Skills -->
-  <img src="https://img.shields.io/badge/Python-⭐⭐⭐⭐⭐-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-⭐⭐⭐⭐-276DC3?style=flat-square&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-⭐⭐⭐⭐-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <!-- Libraries & Frameworks -->
-  <img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-Computation-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
-
----
-
-### 🔗 Let's Connect!
-
-<div align="center">
-  <a href="https://in.linkedin.com/in/dhanasekhar-v-k-975b31253"><img src="https://img.shields.io/badge/-Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:dhanasekharvk@gmail.com"><img src="https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/pho_dhanaskarvk_7"><img src="https://img.shields.io/badge/-Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=dhana56&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-
-  ### "The code of life is waiting to be debugged" 🧬
+  <h2>🤝 Connect</h2>
+  <a href="https://linkedin.com/in/dhanasekhar-v-k-975b31253">
+    <img src="https://img.shields.io/badge/LinkedIn-6E57E4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:dhanasekharvk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-6E57E4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=dhana56&style=for-the-badge&color=6E57E4"/>
+  
+  <h3>"Where Code Meets Biology" 🧬</h3>
 </div>

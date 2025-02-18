@@ -52,9 +52,16 @@ me = ComputationalBiologist()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhana56&theme=radical&hide_border=true" width="48%" />
 </div>
 
-<!-- Add this new section for the activity graph -->
-<div align="center">
+<!-- Add Language Statistics -->
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhana56&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" alt="Language Stats"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhana56&theme=radical&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+</div> -->
+
+### 📊 Language Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhana56&layout=donut&theme=radical&hide_border=true&langs_count=8" width="40%" alt="Language Distribution"/>
 </div>
 
 ### 💻 Tech Stack
