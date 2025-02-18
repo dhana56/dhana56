@@ -1,39 +1,98 @@
+# 👋 Hello, I'm Dhanasekhar V K
+<div align="center">
+  <img align="center" src="Design.gif" alt="Hi there, I am Dhana" />
 
-<img align="center" src="https://github.com/dhana56/dhana56/blob/main/Design%20(1).gif" alt="Hi there, I am Dhana" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Decoding+Life+Through+Code;🧬+Computational+Biology+Explorer+🧬;Python+%2B+Biology+%3D+💚;Building+Digital+DNA&center=true&width=380&height=45&color=f75c7e&vCenter=true&size=22">
+</div>
 
-<h3 align="center">✨🧬Aspiring computational biologist & bioinformatics researcher ✨🧬 </h3>
+# 🧬 Bio.init()
 
-- I’m looking forward to collaborating on **Computational and Bioinformatics Projects**
--  Ask me about **Python programming, Web Development, Bioinformatics and Computational Biology, ML & Data Science**
--  Know about my experiences: [Resume is here](https://drive.google.com/file/d/1udogJnLogZG3-_tfQpZjgN1DnbuN6n0H/view?usp=sharing)
--  Reach out to me via dhanasekharvk@gmail.com
-- Fun fact: **I Like pretty much everything, what about you? 😉**
+```python
+class BioInformatician:
+    def __init__(self):
+        self.name = "Dhanasekhar V K"
+        self.role = "Computational Biology Explorer"
+        self.language_spoken = ["Python", "R", "DNA", "English"]
+        self.interests = ["Bioinformatics", "Machine Learning", "Data Science"]
+        self.challenge = "Translating biological questions into computational solutions"
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's decode life together 🧬")
 
+me = BioInformatician()
+me.say_hi()
+```
 
-## 📲Let's connect!
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/dhanasekhar-v-k-975b31253) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pho_dhanaskarvk_7)
+<div align="center">
+  
+[![Resume](https://img.shields.io/badge/View_My_Research_Journey-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://drive.google.com/file/d/1udogJnLogZG3-_tfQpZjgN1DnbuN6n0H/view?usp=sharing)
 
-<p align="left">
-</p>
+</div>
 
-## 💻 Tech Stack:
- ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
- ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) 
- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
- ![Gitl](https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white)
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) 
- ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) 
- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
- ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) 
- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) 
- ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white)
- ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white)
- ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=plastic&logo=Adobe%20Photoshop&logoColor=white) 
- ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) 
+## 🧪 Research Arsenal
+
+<div align="center">
+
+### 🔬 Core Laboratory
+![Python](https://img.shields.io/badge/Python-Master_of_Scripts-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-Statistical_Sorcerer-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Command_Whisperer-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🧫 BioData Tools
+<a href="#"><img src="https://img.shields.io/badge/Pandas-Data_Alchemist-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/NumPy-Array_Artist-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Scikit--Learn-ML_Explorer-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
+
+### 🧪 Web Lab
+![Flask](https://img.shields.io/badge/Flask-Web_Experimentalist-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Data_Curator-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+## 📊 Research Metrics
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhana56&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" />
+</div>
+
+<table align="center">
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dhana56&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhana56&theme=tokyonight&hide_border=true&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+## 🔬 Current Experiments
+
+```python
+current_research = {
+    "main_focus": "Computational Biology & Bioinformatics",
+    "studying": ["Advanced ML in Genomics", "Protein Structure Prediction"],
+    "collaborating_on": "Open Source Bio-Tools",
+    "asking": "How can we better understand life through code? 🧬"
+}
+```
+
+## 🔗 Research Network
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/dhanasekhar-v-k-975b31253)
+[![Instagram](https://img.shields.io/badge/Follow_My_Journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pho_dhanaskarvk_7)
+[![Email](https://img.shields.io/badge/Collaborate_via_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanasekharvk@gmail.com)
+
+</div>
+
+<div align="center">
+  
+---
+  
+### "The code of life is waiting to be debugged" 🧬
+
+<img src="https://komarev.com/ghpvc/?username=dhana56&style=for-the-badge&color=blueviolet" />
+
+</div>
