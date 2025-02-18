@@ -1,4 +1,3 @@
-# 👋 Hello, I'm Dhanasekhar V K
 <div align="center">
   <img align="center" src="Design.gif" alt="Hi there, I am Dhana" />
 
