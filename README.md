@@ -1,13 +1,18 @@
 <div align="center">
-  <img align="center" src="Design.gif" alt="Hi there, I am Dhana" />
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Decoding+Life+Through+Code;🧬+Computational+Biology+Explorer+🧬;Python+%2B+Biology+%3D+💚;Building+Digital+DNA&center=true&width=380&height=45&color=f75c7e&vCenter=true&size=22">
+  <img align="center" src="Design.gif" alt="Hi there, I am Dhana" width="100%" />
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Decoding+Life+Through+Code;🧬+Computational+Biology+Explorer;Python+%2B+Biology+%3D+💚;Building+Digital+DNA)](https://git.io/typing-svg)
 
-  [![Resume](https://img.shields.io/badge/View_My_Research_Journey-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://drive.google.com/file/d/1udogJnLogZG3-_tfQpZjgN1DnbuN6n0H/view?usp=sharing)
+  [![Research Journey](https://img.shields.io/badge/View_My_Research_Journey-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://drive.google.com/file/d/1udogJnLogZG3-_tfQpZjgN1DnbuN6n0H/view?usp=sharing)
 </div>
 
-<table>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhana56&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true" width="100%" />
+</div>
+
+<table border="0">
 <tr>
-<td width="50%">
+<td width="55%">
 
 ### 🧬 Bio.init()
 ```python
@@ -15,68 +20,75 @@ class BioInformatician:
     def __init__(self):
         self.name = "Dhanasekhar V K"
         self.role = "Computational Biology Explorer"
-        self.language_spoken = ["Python", "R", "DNA"]
-        self.interests = ["Bioinformatics", "ML", 
-                         "Data Science"]
-    
-    def say_hi(self):
-        print("Let's decode life together 🧬")
+        self.stack = {
+            "languages": ["Python", "R", "DNA"],
+            "interests": ["Bioinformatics", "ML", 
+                         "Data Science"],
+            "mission": "Decoding life's mysteries"
+        }
+        
+    def greet(self): return "Let's decode life together 🧬"
 
 me = BioInformatician()
-me.say_hi()
+print(me.greet())
 ```
 
-</td>
-<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=dhana56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
 
-### 🔬 Current Research
+</td>
+<td width="45%">
+
+### 🔬 Research Focus
 ```python
-current_research = {
-    "main_focus": "Computational Biology",
-    "studying": ["ML in Genomics",
-                "Protein Structure Prediction"],
-    "collaborating": "Open Source Bio-Tools",
-    "mission": "Understanding life through code"
+current_work = {
+    "domains": [
+        "Computational Biology",
+        "ML in Genomics",
+        "Protein Structure Prediction"
+    ],
+    "tools": ["BioPython", "PyTorch", 
+              "TensorFlow"],
+    "projects": "Open Source Bio-Tools"
 }
 ```
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhana56&theme=tokyonight&hide_border=true" width="100%" />
+
 </td>
 </tr>
 </table>
 
-## 🧪 Research Arsenal
+### 🧪 Tech Stack & Tools
+
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-Master_of_Scripts-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-Statistical_Sorcerer-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Command_Whisperer-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-⭐⭐⭐⭐⭐-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-⭐⭐⭐⭐-276DC3?style=flat-square&logo=r&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-⭐⭐⭐⭐-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<a href="#"><img src="https://img.shields.io/badge/Pandas-Data_Alchemist-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/NumPy-Array_Artist-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Scikit--Learn-ML_Explorer-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
-![Flask](https://img.shields.io/badge/Flask-Web_Experimentalist-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Data_Curator-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<div>
+  <img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-Computation-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </div>
 
-<table>
-<tr>
-<td>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhana56&theme=tokyonight&hide_border=true" />
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhana56&theme=tokyonight&hide_border=true&layout=compact" />
-</td>
-</tr>
-</table>
+<div>
+  <img src="https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</div>
+
+</div>
+
+### 🔗 Let's Connect!
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhana56&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" />
+  <a href="https://in.linkedin.com/in/dhanasekhar-v-k-975b31253"><img src="https://img.shields.io/badge/-Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dhanasekharvk@gmail.com"><img src="https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/pho_dhanaskarvk_7"><img src="https://img.shields.io/badge/-Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</div>
 
-## 🔗 Connect & Collaborate
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/dhanasekhar-v-k-975b31253)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pho_dhanaskarvk_7)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanasekharvk@gmail.com)
-
-### "The code of life is waiting to be debugged" 🧬
-<img src="https://komarev.com/ghpvc/?username=dhana56&style=for-the-badge&color=blueviolet" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhana56&style=for-the-badge&color=blueviolet" />
+  
+  ### "The code of life is waiting to be debugged" 🧬
 </div>
