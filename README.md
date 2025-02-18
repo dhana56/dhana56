@@ -7,9 +7,6 @@
     <a href="https://drive.google.com/file/d/1udogJnLogZG3-_tfQpZjgN1DnbuN6n0H/view?usp=sharing">
       <img src="https://custom-icon-badges.demolab.com/badge/-Download%20CV-F25278?style=for-the-badge&logo=download&logoColor=white" alt="Download CV"/>
     </a>
-    <!-- <a href="https://drive.google.com/file/d/1udogJnLogZG3-_tfQpZjgN1DnbuN6n0H/view?usp=sharing">
-      <img src="https://img.shields.io/badge/View%20Portfolio-12100E?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio"/>
-    </a> -->
   </div>
 </div>
 
@@ -17,53 +14,64 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dhana56&theme=radical&row=1&column=6&no-frame=true&no-bg=true" width="100%" />
 </div>
 
-<table border="0">
-<tr>
-<td width="55%">
+### 🧑‍💻 Summary
+
+| Category        | Details                                     |
+|-----------------|---------------------------------------------|
+| Name            | Dhanasekhar V K                             |
+| Role            | Computational Biology Explorer              |
+| Skills          | Python, R, Machine Learning, Bioinformatics |
+| Research Areas  | Genomics, Protein Structure Prediction      |
+| Interests       | Data Science, Open Source Bio-Tools         |
 
 ### 🧬 Bio.init()
-```python
-class BioInformatician:
-    def __init__(self):
-        self.name = "Dhanasekhar V K"
-        self.role = "Computational Biology Explorer"
-        self.stack = {
-            "languages": ["Python", "R", "DNA"],
-            "interests": ["Bioinformatics", "ML", 
-                         "Data Science"],
-            "mission": "Decoding life's mysteries"
-        }
-        
-    def greet(self): return "Let's decode life together 🧬"
 
-me = BioInformatician()
-print(me.greet())
-```
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <div style="flex: 1; min-width: 300px; max-width: 45%;">
+    ```python
+    class BioInformatician:
+        def __init__(self):
+            self.name = "Dhanasekhar V K"
+            self.role = "Computational Biology Explorer"
+            self.stack = {
+                "languages": ["Python", "R", "DNA"],
+                "interests": ["Bioinformatics", "ML", 
+                             "Data Science"],
+                "mission": "Decoding life's mysteries"
+            }
+            
+        def greet(self): return "Let's decode life together 🧬"
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhana56&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Dhana's GitHub Stats" style="max-width: 100%;" />
-
-</td>
-<td width="45%">
+    me = BioInformatician()
+    print(me.greet())
+    ```
+  </div>
+  <div style="flex: 1; min-width: 300px; max-width: 45%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=dhana56&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Dhana's GitHub Stats" style="max-width: 100%;" />
+  </div>
+</div>
 
 ### 🔬 Research Focus
-```python
-current_work = {
-    "domains": [
-        "Computational Biology",
-        "ML in Genomics",
-        "Protein Structure Prediction"
-    ],
-    "tools": ["BioPython", "PyTorch", 
-              "TensorFlow"],
-    "projects": "Open Source Bio-Tools"
-}
-```
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhana56&theme=radical&hide_border=true" width="100%" />
-
-</td>
-</tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <div style="flex: 1; min-width: 300px; max-width: 45%;">
+    ```python
+    current_work = {
+        "domains": [
+            "Computational Biology",
+            "ML in Genomics",
+            "Protein Structure Prediction"
+        ],
+        "tools": ["BioPython", "PyTorch", 
+                  "TensorFlow"],
+        "projects": "Open Source Bio-Tools"
+    }
+    ```
+  </div>
+  <div style="flex: 1; min-width: 300px; max-width: 45%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhana56&theme=radical&hide_border=true" width="100%" />
+  </div>
+</div>
 
 ### 📊 GitHub Analytics
 
@@ -79,7 +87,6 @@ current_work = {
     </tr>
   </table>
 
-  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhana56&theme=radical&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph"/>
 </div>
 
