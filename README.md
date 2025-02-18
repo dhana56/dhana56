@@ -48,18 +48,18 @@ me = ComputationalBiologist()
 ### 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhana56&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="Dhana's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhana56&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dhana56&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="Dhana's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhana56&theme=radical&hide_border=true" width="48%" />
 </div>
 
 ### 📊 Language Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhana56&layout=donut&theme=radical&hide_border=true&langs_count=8&count_private=true" width="40%" alt="Language Distribution"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dhana56&layout=donut&theme=radical&hide_border=true&langs_count=8&count_private=true" width="40%" alt="Language Distribution"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhana56&theme=radical&hide_border=true&custom_title=Contribution%20Graph&include_all_commits=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhana56&theme=redical&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
 </div>
 
 ### 💻 Tech Stack
