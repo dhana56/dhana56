@@ -14,16 +14,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dhana56&theme=radical&row=1&column=6&no-frame=true&no-bg=true" width="100%" />
 </div>
 
-### 🧑‍💻 Summary
-
-| Category        | Details                                     |
-|-----------------|---------------------------------------------|
-| Name            | Dhanasekhar V K                             |
-| Role            | Computational Biology Explorer              |
-| Skills          | Python, R, Machine Learning, Bioinformatics |
-| Research Areas  | Genomics, Protein Structure Prediction      |
-| Interests       | Data Science, Open Source Bio-Tools         |
-
 ### 🧬 Bio.init()
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
