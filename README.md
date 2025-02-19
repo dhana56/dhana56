@@ -96,7 +96,7 @@ graph TB
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhana56&show_icons=true&theme=radical&hide_border=true&count_private=true" width="45%" alt="Dhana's GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhana56&theme=radical&hide_border=true" width="45%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=dhana56&theme=radical&hide_border=true&border_radius=10" width="45%" alt="GitHub Streak"/>
 </div>
 
 ### 📊 Language Analytics
