@@ -110,29 +110,33 @@ graph TB
 
 ### 💻 Tech Stack
 
-```python
-tech_stack = {
-    "bioinformatics": ["BioPython", "BLAST"],
-    "data_science": ["Pandas", "NumPy", "SciPy", "Matplotlib"],
-    "machine_learning": ["TensorFlow", "PyTorch", "Scikit-learn"],
-    "web_dev": ["Flask", "HTML/CSS"],
-    "databases": ["MongoDB", "MySQL"],
-    "tools": ["Git", "Linux"]
-}
-```
-
 <div align="center">
-  <img src="https://img.shields.io/badge/🧑‍💻_Coding-90%25-3776AB?style=flat-square" />
-  <img src="https://img.shields.io/badge/🧬_Biology-85%25-276DC3?style=flat-square" />
-  <img src="https://img.shields.io/badge/📊_Analysis-80%25-00C805?style=flat-square" />
+
+  <h4>📊 Data Science & ML</h4>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  
+  <h4>📈 Data Analysis</h4>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+
+  <h4>🛠️ Development Tools</h4>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-<!-- ### 🎯 Current Projects
-
-- 🧬 Developing ML models for protein structure prediction
-- 📊 Creating a pipeline for NGS data analysis
-- 🤖 Building AI tools for genomic data interpretation
-- 📱 Developing bioinformatics web applications -->
+  <h4>💡 Expertise Level</h4>
+  <img src="https://progress-bar.dev/95/?title=Bioinformatics&width=200&color=00BF6F"/>
+  <img src="https://progress-bar.dev/90/?title=Machine%20Learning&width=200&color=FF6F00"/>
+  <img src="https://progress-bar.dev/85/?title=Data%20Analysis&width=200&color=4479A1"/>
+</div>
 
 ### 🔬 Current Focus
 ```python
@@ -254,3 +258,4 @@ gantt
 <div align="center">
   <h3>"Debugging the Code of Life, One Gene at a Time" 🧬</h3>
 </div>
+````
