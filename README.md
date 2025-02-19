@@ -232,7 +232,7 @@ gantt
     Initial Study        :done, in, 2022-07, 2022-08
     
     section Major Milestones
-    ML/DL & Scientific writing  :crit, m1, 2024-12, 1d
+    ML/DL & Scientific writing  :crit, m1, 2024-8, 14d
     Framework Complete   :crit, m2, 2023-10, 1d
     Network Analysis    :crit, m3, 2023-05, 1d
     Project Start      :crit, m4, 2022-08, 1d
