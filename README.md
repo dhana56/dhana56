@@ -27,7 +27,7 @@ class ComputationalBiologist:
         }
     
     def mission(self):
-        return "Bridging the gap between computation and biology 🧬"
+        return "Bridging the gap between computation, mathematics and biology 🧬"
 
 me = ComputationalBiologist()
 ```
