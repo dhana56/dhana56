@@ -56,6 +56,7 @@ graph TB
         end
     end
 
+
     subgraph APPS["TRANSLATIONAL RESEARCH"]
         T1{{"Genotype-Phenotype<br/>Mapping"}}:::small
         T2{{"Microbiome<br/>Analysis"}}:::small
@@ -136,10 +137,10 @@ tech_stack = {
 ### 🔬 Current Focus
 ```python
 current_projects = {
-    "main": "Histone PTM Predictions using Deep Learning",
+    "main": "Histone PTM Predictions",
     "collaboration": "MMI Feature Selection with IIT Bombay",
     "learning": "Advanced Graph Neural Networks",
-    "timeline": "Feb 2024 - June 2024"
+    "timeline": "Feb 2024 - Present"
 }
 ```
 
