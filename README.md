@@ -41,54 +41,52 @@ me = ComputationalBiologist()
 ```mermaid
 graph TB
     %% Core Research Domains
-    subgraph CORE["COMPUTATIONAL BIOLOGY RESEARCH"]
+    subgraph CORE["COMPUTATIONAL BIOLOGY"]
         direction TB
         subgraph ALG["Algorithmic Biology"]
-            A1[("Predictive<br/>Modeling")]
-            A2[("Pattern<br/>Recognition")]
-            A3[("Theoretical<br/>Analysis")]
+            A1[("Predictive<br/>Modeling")]:::small
+            A2[("Pattern<br/>Recognition")]:::small
+            A3[("Theoretical<br/>Analysis")]:::small
         end
         
         subgraph SYS["Systems Biology"]
-            S1[("Network<br/>Analysis")]
-            S2[("Dynamic<br/>Systems")]
-            S3[("Regulatory<br/>Networks")]
+            S1[("Network<br/>Analysis")]:::small
+            S2[("Dynamic<br/>Systems")]:::small
+            S3[("Regulatory<br/>Networks")]:::small
         end
         
         subgraph DIS["Disease Biology"]
-            D1[("Cancer<br/>Evolution")]
-            D2[("Viral<br/>Infection")]
-            D3[("Precision<br/>Medicine")]
+            D1[("Cancer<br/>Evolution")]:::small
+            D2[("Viral<br/>Infection")]:::small
+            D3[("Precision<br/>Medicine")]:::small
         end
     end
 
-    %% Research Applications
     subgraph APPS["TRANSLATIONAL RESEARCH"]
-        T1{{"Genotype-Phenotype<br/>Mapping"}}
-        T2{{"Microbiome<br/>Analysis"}}
-        T3{{"Therapeutic<br/>Development"}}
+        T1{{"Genotype-Phenotype<br/>Mapping"}}:::small
+        T2{{"Microbiome<br/>Analysis"}}:::small
+        T3{{"Therapeutic<br/>Development"}}:::small
     end
 
-    %% Connections
     ALG --> T1
     SYS --> T2
     DIS --> T3
 
-    %% Styling
-    classDef default fill:#2d3436,stroke:#636e72,stroke-width:2px,color:#fff
-    classDef core fill:#0984e3,stroke:#74b9ff,stroke-width:3px,color:#fff
-    classDef system fill:#00b894,stroke:#55efc4,stroke-width:2px,color:#fff
-    classDef disease fill:#6c5ce7,stroke:#a29bfe,stroke-width:2px,color:#fff
-    classDef apps fill:#d63031,stroke:#ff7675,stroke-width:2px,color:#fff
-    
+    %% Styling with reduced sizes
+    classDef default fill:#2d3436,stroke:#636e72,stroke-width:1px,color:#fff
+    classDef core fill:#0984e3,stroke:#74b9ff,stroke-width:2px,color:#fff
+    classDef system fill:#00b894,stroke:#55efc4,stroke-width:1px,color:#fff
+    classDef disease fill:#6c5ce7,stroke:#a29bfe,stroke-width:1px,color:#fff
+    classDef apps fill:#d63031,stroke:#ff7675,stroke-width:1px,color:#fff
+    classDef small font-size:10px,width:100px,height:40px
+
     class CORE,ALG,SYS,DIS core
     class A1,A2,A3 system
     class S1,S2,S3 system
     class D1,D2,D3 disease
     class T1,T2,T3 apps
 
-    %% Link Styles
-    linkStyle default stroke:#2d3436,stroke-width:2px
+    linkStyle default stroke:#2d3436,stroke-width:1px
 ```
 
 <!-- ### 🔬 Research Interests
