@@ -56,7 +56,7 @@ graph TB
         end
     end
 
-    subgraph APPS["TRANSLATIONAL RESEARCH"]
+    subgraph APPS[" TRANSLATIONAL  RESEARCH"]
         T1{{"Genotype-Phenotype<br/>Mapping"}}:::small
         T2{{"Microbiome<br/>Analysis"}}:::small
         T3{{"Therapeutic<br/>Development"}}:::small
