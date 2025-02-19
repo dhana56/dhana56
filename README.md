@@ -56,7 +56,6 @@ graph TB
         end
     end
 
-
     subgraph APPS["TRANSLATIONAL RESEARCH"]
         T1{{"Genotype-Phenotype<br/>Mapping"}}:::small
         T2{{"Microbiome<br/>Analysis"}}:::small
@@ -72,7 +71,7 @@ graph TB
     classDef core fill:#34495e,stroke:#576574,stroke-width:2px,color:#fff
     classDef system fill:#485460,stroke:#808e9b,stroke-width:1px,color:#fff
     classDef disease fill:#596275,stroke:#8395a7,stroke-width:1px,color:#fff
-    classDef apps fill:#222f3e,stroke:#576574,stroke-width:1px,color:#fff
+    classDef apps fill:#222f3e,stroke:#576574,stroke-width:2px,color:#fff
     classDef small font-size:10px,width:100px,height:40px
 
     class CORE,ALG,SYS,DIS core
@@ -81,7 +80,7 @@ graph TB
     class D1,D2,D3 disease
     class T1,T2,T3 apps
 
-    linkStyle default stroke:#4a5568,stroke-width:1px
+    linkStyle default stroke:#4a5568,stroke-width:1.5px
 ```
 
 <!-- ### 🔬 Research Interests
