@@ -23,8 +23,7 @@ class ComputationalBiologist:
         self.role = "Computational Biology Explorer"
         self.location = "India 🇮🇳"
         self.education = {
-            "degree": "BS-MS dual degree, Majors in Biology & Minors in Data Science, IISER Mohali",
-            "interests": ["Genomics", "ML in Biology", "Data Science"]
+            "degree": "BS-MS dual degree, Majors in Biology & Minors in Data Science, IISER Mohali"
         }
         self.skills = {
             "languages": ["Python", "R", "Bash", "DNA/RNA"],
