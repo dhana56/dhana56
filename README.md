@@ -204,24 +204,38 @@ timeline
 ### 🔬 Research Timeline
 
 ```mermaid
+%%{init: {
+    'theme': 'dark',
+    'themeVariables': {
+        'primaryColor': '#FF0000',
+        'textColor': '#FFFFFF',
+        'sectionBkgColor': '#2A2E37',
+        'taskBkgColor': '#41465D',
+        'activeTaskBkgColor': '#4CAF50',
+        'doneTaskBkgColor': '#64B5F6',
+        'critBkgColor': '#FF4081',
+        'gridColor': '#444444'
+    }
+}}%%
 gantt
     title Research Timeline
     dateFormat YYYY-MM
     axisFormat %Y-%m
-
-    section Current Projects
-    Histone PTM Research    :ptm, 2024-02, 2024-06
-    MMI Analysis           :mmi, 2024-02, 2024-06
-
-    section Past Projects
-    Framework Development  :done, 2023-07, 2023-10
-    Thesis Research       :done, 2022-08, 2023-05
-    Initial Research      :done, 2022-07, 2022-08
-
-    section Milestones
-    Framework Completion  :crit, milestone, 2023-10, 1d
-    Network Analysis     :crit, milestone, 2023-05, 1d
-    Project Initiation   :crit, milestone, 2022-08, 1d
+    
+    section Current Research
+    IBAB PTM Analysis    :active, ptm, 2024-02, 2024-06
+    IIT-B MMI Analysis   :active, mmi, 2024-02, 2024-06
+    
+    section Past Research
+    Framework Development:done, fw, 2023-07, 2023-10
+    Thesis Research      :done, th, 2022-08, 2023-05
+    Initial Study        :done, in, 2022-07, 2022-08
+    
+    section Major Milestones
+    ML/DL & Scientific writing  :crit, m1, 2024-12, 1d
+    Framework Complete   :crit, m2, 2023-10, 1d
+    Network Analysis    :crit, m3, 2023-05, 1d
+    Project Start      :crit, m4, 2022-08, 1d
 ```
 
 ### 🎓 Research Collaborations
@@ -230,20 +244,17 @@ gantt
 
 | Institution | Collaborator | Research Focus |
 |-------------|--------------|----------------|
-| IBAB & IIT Bombay| Dr. Nithya Ramakrishnan &Dr. Sibi Raj B Pillai | Histone PTMs &MMI Analysis
-| IISER Mohali & Kolkata | Dr. Shashi Bhushan Pandit & Prof. Somdatta Sinha| Protein Networks & Phenotypic Effects |
+| IBAB & IIT Bombay| Dr. Nithya Ramakrishnan &Dr. Sibi Raj B Pillai | Histone PTMs &MMI Analysis & IIT Bombay| Dr. Nithya Ramakrishnan &Dr. Sibi Raj B Pillai | Histone PTMs &MMI Analysis
+| IISER Mohali & Kolkata | Dr. Shashi Bhushan Pandit & Prof. Somdatta Sinha| Protein Networks & Phenotypic Effects || IISER Mohali & Kolkata | Dr. Shashi Bhushan Pandit & Prof. Somdatta Sinha| Protein Networks & Phenotypic Effects |
 
 </div>
 
 ### 🤝 Let's Connect!
 
 <div align="center">
-  <a href="https://in.linkedin.com/in/dhanasekhar-v-k-975b31253"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:dhanasekharvk@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/pho_dhanaskarvk_7"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=dhana56&style=for-the-badge&color=blueviolet" />
-</div>
-
-<div align="center">
   <h3>"Debugging the Code of Life, One Gene at a Time" 🧬</h3>
+  <img src="https://komarev.com/ghpvc/?username=dhana56&style=for-the-badge&color=blueviolet" />
+  <a href="https://instagram.com/pho_dhanaskarvk_7"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:dhanasekharvk@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://in.linkedin.com/in/dhanasekhar-v-k-975b31253"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
