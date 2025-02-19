@@ -94,8 +94,9 @@ graph TB
 ### 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhana56&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="Dhana's GitHub Stats"/>  
-  <img src="https://streak-stats.demolab.com?user=dhana56&theme=radical&hide_border=true" width="49%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dhana56&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="Dhana's GitHub Stats"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=dhana56&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak"/>
 </div>
 
 ### 📊 Language Analytics
@@ -244,8 +245,8 @@ gantt
 
 | Institution | Collaborator | Research Focus |
 |-------------|--------------|----------------|
-| IBAB & IIT Bombay| Dr. Nithya Ramakrishnan &Dr. Sibi Raj B Pillai | Histone PTMs &MMI Analysis & IIT Bombay| Dr. Nithya Ramakrishnan &Dr. Sibi Raj B Pillai | Histone PTMs &MMI Analysis
-| IISER Mohali & Kolkata | Dr. Shashi Bhushan Pandit & Prof. Somdatta Sinha| Protein Networks & Phenotypic Effects || IISER Mohali & Kolkata | Dr. Shashi Bhushan Pandit & Prof. Somdatta Sinha| Protein Networks & Phenotypic Effects |
+| IBAB & IIT Bombay | Dr. Nithya Ramakrishnan & Dr. Sibi Raj B Pillai | Histone PTMs & MMI Analysis |
+| IISER Mohali & Kolkata | Dr. Shashi Bhushan Pandit & Prof. Somdatta Sinha | Protein Networks & Phenotypic Effects |
 
 </div>
 
