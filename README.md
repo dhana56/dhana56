@@ -93,19 +93,16 @@ graph TB
 ### 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhana56&show_icons=true&theme=radical&hide_border=true&count_private=true" width="45%" alt="Dhana's GitHub Stats"/>
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhana56&show_icons=true&theme=radical&hide_border=true&count_private=true" width="45%" alt="Dhana's GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=dhana56&theme=radical&hide_border=true&border_radius=10" width="45%" alt="GitHub Streak"/>
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats-nine-navy.vercel.app/?user=dhana56&theme=radical&hide_border=true&count_private=true" width="45%" alt="GitHub Streak"/>
 </div>
 
-### 📊 Language Analytics
-
-<div align="justify">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dhana56&layout=donut&theme=radical&hide_border=true&langs_count=8&count_private=true" width="40%" alt="Language Distribution"/>
-</div>
-
+<!-- Language Stats -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhana56&theme=redical&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhana56&layout=compact&theme=radical&hide_border=true" width="45%" alt="Top Languages"/>
 </div>
 
 ### 💻 Tech Stack
