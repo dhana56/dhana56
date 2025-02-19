@@ -209,6 +209,7 @@ gantt
     section Current Research
     IBAB: Histone PTM Research     :active, 2024-02, 2024-06
     IIT-B: MMI Analysis           :active, 2024-02, 2024-06
+  
 
     section Past Research
     IISER Mohali (Framework)      :done, framework, 2023-07, 2023-10
@@ -219,8 +220,8 @@ gantt
     Computational Framework       :milestone, 2023-10, 1d
     Network Analysis             :milestone, 2023-05, 1d
     Protein Contact Study        :milestone, 2022-08, 1d
-  
-    
+    ML & Predictive Modeling      :milestone, 2024-02, 2024-06
+    Scientific Writing           :milestone, 2024-02, 2024-06
 
 %% Styling definitions
 %% Colors inherit from theme
