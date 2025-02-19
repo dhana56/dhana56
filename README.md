@@ -191,13 +191,13 @@ timeline
 </table>
 </div>
 
-### 📈 Research Statistics
+<!-- ### 📈 Research Statistics
 
 <div align="center">
   <img src="https://img.shields.io/badge/Protein_Pairs_Analyzed-3600+-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/Mutations_Studied-2000+-green?style=flat-square"/>
   <img src="https://img.shields.io/badge/Research_Projects-4-red?style=flat-square"/>
-</div>
+</div> -->
 
 ### 🔬 Research Timeline
 
