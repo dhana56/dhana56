@@ -207,27 +207,21 @@ timeline
 gantt
     title Research Timeline
     dateFormat YYYY-MM
-    axisFormat %b %Y
+    axisFormat %Y-%m
 
-    section Current Research
-    IBAB: Histone PTM Research     :active, 2024-02, 2024-06
-    IIT-B: MMI Analysis           :active, 2024-02, 2024-06
-  
+    section Current Projects
+    Histone PTM Research    :ptm, 2024-02, 2024-06
+    MMI Analysis           :mmi, 2024-02, 2024-06
 
-    section Past Research
-    IISER Mohali (Framework)      :done, framework, 2023-07, 2023-10
-    IISER Mohali (Thesis)        :done, thesis, 2022-08, 2023-05
-    IISER Mohali (Initial)       :done, initial, 2022-07, 2022-08
+    section Past Projects
+    Framework Development  :done, 2023-07, 2023-10
+    Thesis Research       :done, 2022-08, 2023-05
+    Initial Research      :done, 2022-07, 2022-08
 
-    section milestone
-    Computational Framework       :milestone, 2023-10, 1d
-    Network Analysis             :milestone, 2023-05, 1d
-    Protein Contact Study        :milestone, 2022-08, 1d
-    ML & Predictive Modeling      :milestone, 2024-02, 2024-06
-    Scientific Writing           :milestone, 2024-02, 2024-06
-
-%% Styling definitions
-%% Colors inherit from theme
+    section Milestones
+    Framework Completion  :crit, milestone, 2023-10, 1d
+    Network Analysis     :crit, milestone, 2023-05, 1d
+    Project Initiation   :crit, milestone, 2022-08, 1d
 ```
 
 ### 🎓 Research Collaborations
@@ -253,4 +247,3 @@ gantt
 <div align="center">
   <h3>"Debugging the Code of Life, One Gene at a Time" 🧬</h3>
 </div>
-````
