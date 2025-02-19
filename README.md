@@ -130,13 +130,6 @@ graph TB
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
-
-  <h4>💡 Expertise Level</h4>
-  <img src="https://progress-bar.dev/95/?title=Bioinformatics&width=200&color=00BF6F"/>
-  <img src="https://progress-bar.dev/90/?title=Machine%20Learning&width=200&color=FF6F00"/>
-  <img src="https://progress-bar.dev/85/?title=Data%20Analysis&width=200&color=4479A1"/>
-</div>
 
 ### 🔬 Current Focus
 ```python
