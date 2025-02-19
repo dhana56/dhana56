@@ -133,6 +133,15 @@ tech_stack = {
 - 🤖 Building AI tools for genomic data interpretation
 - 📱 Developing bioinformatics web applications -->
 
+### 🔬 Current Focus
+```python
+current_projects = {
+    "main": "Histone PTM Predictions using Deep Learning",
+    "collaboration": "MMI Feature Selection with IIT Bombay",
+    "learning": "Advanced Graph Neural Networks",
+    "timeline": "Feb 2024 - June 2024"
+}
+```
 
 ### 📊 Research Impact & Metrics
 
