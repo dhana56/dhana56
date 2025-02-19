@@ -25,11 +25,6 @@ class ComputationalBiologist:
         self.education = {
             "degree": "BS-MS dual degree, Majors in Biology & Minors in Data Science, IISER Mohali"
         }
-        self.skills = {
-            "languages": ["Python", "R", "Bash", "DNA/RNA"],
-            "ml_tools": ["TensorFlow", "PyTorch", "Scikit-learn"],
-            "databases": ["MongoDB", "MySQL"]
-        }
     
     def mission(self):
         return "Bridging the gap between computation and biology 🧬"
