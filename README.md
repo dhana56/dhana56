@@ -72,12 +72,12 @@ graph TB
     SYS --> T2
     DIS --> T3
 
-    %% Styling with reduced sizes
-    classDef default fill:#2d3436,stroke:#636e72,stroke-width:1px,color:#fff
-    classDef core fill:#0984e3,stroke:#74b9ff,stroke-width:2px,color:#fff
-    classDef system fill:#00b894,stroke:#55efc4,stroke-width:1px,color:#fff
-    classDef disease fill:#6c5ce7,stroke:#a29bfe,stroke-width:1px,color:#fff
-    classDef apps fill:#d63031,stroke:#ff7675,stroke-width:1px,color:#fff
+    %% Scientific journal color scheme
+    classDef default fill:#2a3541,stroke:#4a5568,stroke-width:1px,color:#fff
+    classDef core fill:#34495e,stroke:#576574,stroke-width:2px,color:#fff
+    classDef system fill:#485460,stroke:#808e9b,stroke-width:1px,color:#fff
+    classDef disease fill:#596275,stroke:#8395a7,stroke-width:1px,color:#fff
+    classDef apps fill:#222f3e,stroke:#576574,stroke-width:1px,color:#fff
     classDef small font-size:10px,width:100px,height:40px
 
     class CORE,ALG,SYS,DIS core
@@ -86,7 +86,7 @@ graph TB
     class D1,D2,D3 disease
     class T1,T2,T3 apps
 
-    linkStyle default stroke:#2d3436,stroke-width:1px
+    linkStyle default stroke:#4a5568,stroke-width:1px
 ```
 
 <!-- ### 🔬 Research Interests
