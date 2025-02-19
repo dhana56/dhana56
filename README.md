@@ -132,6 +132,7 @@ graph TB
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </div>
+
 ### 🔬 Current Focus
 ```python
 current_projects = {
