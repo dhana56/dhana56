@@ -158,7 +158,7 @@ timeline
 ```
 
 ### 🎯 Key Research Metrics
-
+<div align="center">
 <table>
   <tr>
     <th>Research Area</th>
@@ -193,6 +193,7 @@ timeline
     <td>Web Development</td>
   </tr>
 </table>
+</div>
 
 ### 📈 Research Statistics
 
