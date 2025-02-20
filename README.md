@@ -90,6 +90,7 @@ graph TB
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dhana56&theme=juicyfresh&row=1&column=6&no-frame=true&no-bg=false&margin-w=15" width="100%" />
 </div>
+<br>
 
 <div align="center">
   <!-- GitHub Stats Card with Ring Theme -->
