@@ -112,6 +112,7 @@ graph TB
   <img src="https://img.shields.io/badge/Proteomics-4ECDC4?style=for-the-badge&logo=protein&logoColor=white"/>
   <img src="https://img.shields.io/badge/Structural_Biology-45B7D1?style=for-the-badge&logo=molecule&logoColor=white"/>
   <img src="https://img.shields.io/badge/Network_Science-96CEB4?style=for-the-badge&logo=network&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Information_Theory-76CEB4?style=for-the-badge&logo=network&logoColor=white"/>
   
   <h4>💻 Programming & Computing</h4>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
