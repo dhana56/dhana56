@@ -13,7 +13,7 @@
 ```python
 class ComputationalBiologist:
     def __init__(self):
-        self.name = "Dhanasekhar V K"
+        self.name = "Dhanasekhar V.K."
         self.role = "Computational Biology Explorer"
         self.location = "India 🇮🇳"
         self.education = {
@@ -107,26 +107,38 @@ graph TB
 ### 💻 Tech Stack
 
 <div align="center">
-
-  <h4>📊 Data Science & ML</h4>
+  <h4>🧬 Computational Biology & Bioinformatics</h4>
+  <img src="https://img.shields.io/badge/Genomics-FF6B6B?style=for-the-badge&logo=dna&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Proteomics-4ECDC4?style=for-the-badge&logo=protein&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Structural_Biology-45B7D1?style=for-the-badge&logo=molecule&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Network_Science-96CEB4?style=for-the-badge&logo=network&logoColor=white"/>
+  
+  <h4>💻 Programming & Computing</h4>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GPU_Computing-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HPC-FFA116?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  
+  <h4>🤖 ML & Data Science</h4>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  
-  <h4>📈 Data Analysis</h4>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-
+  
   <h4>🛠️ Development Tools</h4>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  
+  <h4>📝 Scientific Tools</h4>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zotero-CC2936?style=for-the-badge&logo=zotero&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </div>
 
 ### 🔬 Current Focus
