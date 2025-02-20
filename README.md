@@ -88,7 +88,7 @@ graph TB
 ---
 ### 📈 GitHub Statistics
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhana56&theme=radical&row=1&column=6&no-frame=true&no-bg=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dhana56&theme=juicyfresh&row=1&column=6&no-frame=true&no-bg=false&margin-w=15" width="100%" />
 </div>
 
 <div align="center">
@@ -134,7 +134,7 @@ graph TB
 current_projects = {
     "main": "Histone PTM Predictions",
     "collaboration": "MMI Feature Selection with IIT Bombay",
-    "learning": "Advanced Graph Neural Networks",
+    "learning": "ML and Information theory",
     "timeline": "Feb 2024 - Present"
 }
 ```
