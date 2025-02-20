@@ -106,7 +106,7 @@ graph TB
 
 ### 💻 Tech Stack
 
-<div align="center">
+<div align="left">
   <h4>🧬 Computational Biology & Bioinformatics</h4>
   <img src="https://img.shields.io/badge/Genomics-FF6B6B?style=for-the-badge&logo=dna&logoColor=white"/>
   <img src="https://img.shields.io/badge/Proteomics-4ECDC4?style=for-the-badge&logo=protein&logoColor=white"/>
