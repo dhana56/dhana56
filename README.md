@@ -8,11 +8,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhana56&theme=radical&row=1&column=6&no-frame=true&no-bg=true" width="100%" />
-</div>
-
----
 
 ### 🧬 About Me
 
@@ -90,7 +85,11 @@ graph TB
 - 📊 **Biostatistics**: Statistical analysis of biological data
 - 🦠 **Systems Biology**: Modeling biological networks and pathways  hah --> 
 
+---
 ### 📈 GitHub Statistics
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhana56&theme=radical&row=1&column=6&no-frame=true&no-bg=true" width="100%" />
+</div>
 
 <div align="center">
   <!-- GitHub Stats Card with Ring Theme -->
