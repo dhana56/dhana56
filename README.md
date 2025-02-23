@@ -1,12 +1,14 @@
 <div align="center">
   <img src="Design.gif" alt="Hi there, I am Dhana" width="100%" />
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Decoding+Life+Through+Code;🧬+Computational+Biology+Explorer;Computation+%2B+Biology+%2B+Math;Building+Digital+DNA)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=F75C7E¢er=true&vCenter=true&width=500&lines=Unraveling+Genomic+Mysteries;🧬+Computational+Biology+Explorer;Code+%2B+Math+%2B+Biology;Building+Tools+for+Life+Sciences)](https://git.io/typing-svg)
 
   <a href="https://drive.google.com/file/d/1udogJnLogZG3-_tfQpZjgN1DnbuN6n0H/view?usp=sharing">
     <img src="https://custom-icon-badges.demolab.com/badge/-Download%20CV-F25278?style=for-the-badge&logo=download&logoColor=white" alt="Download CV"/>
   </a>
 </div>
+
+---
 
 ### 🧬 About Me
 
@@ -17,15 +19,26 @@ class ComputationalBiologist:
         self.role = "Computational Biology Explorer"
         self.location = "India 🇮🇳"
         self.education = {
-            "degree": "BS-MS dual degree, Majors in Biology & Minors in Data Science, IISER Mohali"
+            "degree": "BS-MS Dual Degree",
+            "majors": "Biology",
+            "minors": "Data Science",
+            "institute": "IISER Mohali"
         }
-    
+        self.passions = ["Decoding biological complexity", "Building computational tools", "Collaborating across disciplines"]
+
     def mission(self):
-        return "Bridging the gap between computation, mathematics and biology 🧬"
+        return "Bridging computation, mathematics, and biology to solve real-world problems 🧬"
 
 me = ComputationalBiologist()
+print(f"Hi, I’m {me.name}, a {me.role} from {me.location}. {me.mission()}")
 ```
+I’m passionate about unraveling the mysteries of life through code, blending biology with machine learning and mathematics to create impactful tools and insights.
+
+---
+
 ### 🧬 Research Focus Areas
+Here’s a snapshot of my research domains and their real-world applications:
+
 ```mermaid
 graph TB
     %% Core Research Domains
@@ -86,6 +99,13 @@ graph TB
 
 ---
 ### 📈 GitHub Statistics
+
+I’m an active contributor to computational biology projects. Here’s a glimpse of my GitHub journey:
+
+- 🏆 Quickdraw Trophy: For lightning-fast pull request reviews.
+- 📊 Contributions: Over 10 repositories in the past year.
+- 🔥 Streak: 30+ days of consistent coding.
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dhana56&theme=juicyfresh&row=1&column=6&no-frame=true&no-bg=false&margin-w=15" width="100%" />
 </div>
@@ -96,7 +116,7 @@ graph TB
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dhana56&show_icons=true&theme=radical&hide_border=true&count_private=true&ring_color=ff3068&line_height=28" width="45%" alt="Dhana's GitHub Stats"/>
   &nbsp;&nbsp;
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats-khaki.vercel.app/?user=dhana56&theme=radical&hide_border=true&background=141321&ring=ff3068&fire=ff3068&currStreakLabel=ff3068" width="45%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=dhana56&theme=radical&hide_border=true&background=141321&ring=ff3068&fire=ff3068&currStreakLabel=ff3068" width="45%" alt="GitHub Streak"/>
 </div>
 <br>
 <!-- Language Stats with Ring Theme -->
@@ -104,7 +124,11 @@ graph TB
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dhana56&layout=compact&theme=radical&hide_border=true&ring_color=ff3068&langs_count=8&card_width=445" width="45%" alt="Top Languages"/>
 </div>
 
+Explore my GitHub for more!
+
+--- 
 ### 💻 Tech Stack
+Here’s the toolkit powering my research and projects:
 
 <div align="left">
   <h4>🧬 Computational Biology & Bioinformatics</h4>
@@ -140,9 +164,20 @@ graph TB
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zotero-CC2936?style=for-the-badge&logo=zotero&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+
+  <h4>🧬 Wet Lab Techniques</h4>
+  <img src="https://img.shields.io/badge/PCR-FF4081?style=for-the-badge&logo=dna&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gel_Electrophoresis-45B7D1?style=for-the-badge&logo=biology&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DNA_Isolation-4ECDC4?style=for-the-badge&logo=dna&logoColor=white"/>
+
+  <h4>📐 Mathematics & Theory</h4>
+  <img src="https://img.shields.io/badge/Linear_Algebra-FF6B6B?style=for-the-badge&logo=matrix&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Graph_Theory-4ECDC4?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statistics-45B7D1?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </div>
 
 ### 🔬 Current Focus
+Here’s what I’m diving into right now:
 ```python
 current_projects = {
     "main": "Histone PTM Predictions",
@@ -153,6 +188,7 @@ current_projects = {
 ```
 
 ### 📊 Research Impact & Metrics
+My work is making waves in computational biology:
 
 ```mermaid
 timeline
@@ -166,42 +202,7 @@ timeline
 ```
 
 ### 🎯 Key Research Metrics
-<div align="center">
-<table>
-  <tr>
-    <th>Research Area</th>
-    <th>Impact Metrics</th>
-    <th>Technologies</th>
-  </tr>
-  <tr>
-    <td>Protein Structure Analysis</td>
-    <td>
-      • Analyzed 3,600+ protein pairs<br>
-      • 2,004 Deep Mutational Scans<br>
-      • Single Domain Protein Study
-    </td>
-    <td>Network Science, Graph Theory</td>
-  </tr>
-  <tr>
-    <td>Histone PTM Research</td>
-    <td>
-      • MMI-based Feature Selection<br>
-      • Graph Entropy Clustering<br>
-      • Neural Network Models
-    </td>
-    <td>ML/DL, Graph Algorithms</td>
-  </tr>
-  <tr>
-    <td>Web Framework</td>
-    <td>
-      • Protein Visualization Tool<br>
-      • Contact Network Analysis<br>
-      • UniProt Integration
-    </td>
-    <td>Web Development</td>
-  </tr>
-</table>
-</div>
+<div align="center"> <table> <tr> <th>Research Area</th> <th>Impact Metrics</th> <th>Technologies</th> </tr> <tr> <td>🧬 Protein Structure Analysis</td> <td> • Analyzed 3,600+ protein pairs<br> • 2,004 Deep Mutational Scans<br> • Single Domain Protein Study </td> <td>Network Science, Graph Theory</td> </tr> <tr> <td>🔬 Histone PTM Research</td> <td> • MMI-based Feature Selection<br> • Graph Entropy Clustering<br> • Neural Network Models </td> <td>ML/DL, Graph Algorithms</td> </tr> <tr> <td>💻 Web Framework</td> <td> • Protein Visualization Tool<br> • Contact Network Analysis<br> • UniProt Integration </td> <td>Web Development</td> </tr> </table> </div>
 
 <!-- ### 📈 Research Statistics
 
@@ -212,6 +213,7 @@ timeline
 </div> -->
 
 ### 🔬 Research Timeline
+Here’s a visual journey of my research milestones:
 
 ```mermaid
 %%{init: {
@@ -249,22 +251,10 @@ gantt
 ```
 
 ### 🎓 Research Collaborations
+I’m proud to work with brilliant minds across institutions:
 
-<div align="center">
-
-| Institution | Collaborator | Research Focus |
-|-------------|--------------|----------------|
-| IBAB & IIT Bombay | Dr. Nithya Ramakrishnan & Dr. Sibi Raj B Pillai | Histone PTMs & MMI Analysis |
-| IISER Mohali & Kolkata | Dr. Shashi Bhushan Pandit & Prof. Somdatta Sinha | Protein Networks & Phenotypic Effects |
-
-</div>
+<div align="center"> <table> <tr> <th>Institution</th> <th>Collaborator</th> <th>Research Focus</th> <th>Link</th> </tr> <tr> <td>IBAB & IIT Bombay</td> <td>Dr. Nithya Ramakrishnan & Dr. Sibi Raj B Pillai</td> <td>Histone PTMs & MMI Analysis</td> <td><a href="">In Progress</a></td> </tr> <tr> <td>IISER Mohali & Kolkata</td> <td>Dr. Shashi Bhushan Pandit & Prof. Somdatta Sinha</td> <td>Protein Networks & Phenotypic Effects</td> <td><a href="https://drive.google.com/file/d/1t6SLEwe4P7vpB5SM4vIGjK8HmIwv7yjQ/view?usp=sharing">Poster</a></td> </tr> </table> </div>
 
 ### 🤝 Let's Connect!
 
-<div align="center">
-  <h3>"Debugging the Code of Life, One Gene at a Time" 🧬</h3>
-  <img src="https://komarev.com/ghpvc/?username=dhana56&style=for-the-badge&color=blueviolet" />
-  <a href="https://instagram.com/pho_dhanaskarvk_7"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:dhanasekharvk@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://in.linkedin.com/in/dhanasekhar-v-k-975b31253"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
+<div align="center"> <h3>"Debugging the Code of Life, One Gene at a Time" 🧬</h3> <img src="https://komarev.com/ghpvc/?username=dhana56&style=for-the-badge&color=blueviolet" /> <p>Got an idea, project, or just want to chat about computational biology? I’m all ears—let’s collaborate and decode the future together!</p> <a href="https://instagram.com/pho_dhanaskarvk_7"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="mailto:dhanasekharvk@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://in.linkedin.com/in/dhanasekhar-v-k-975b31253"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </div>
