@@ -1,7 +1,7 @@
 <div align="center">
   <img src="Design.gif" alt="Hi there, I am Dhana" width="100%" />
   
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=🧬+Computational+Biology+Explorer;🔬+Unraveling+Genomic+Mysteries;🤖+ML+%2B+Biology+%2B+Mathematics;🧪+Bridging+Wet+%26+Dry+Lab+Research;📊+Data-Driven+Discovery;💡+Innovation+in+Life+Sciences;🎯+Building+Tools+for+BioTech;⚡+High-Performance+Computing+in+Biology)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=🧬+Computational+Biology+Explorer;🔬+Unraveling+Genomic+Mysteries;🤖+ML+%2B+Biology+%2B+Mathematics;🧪+Bridging+Wet+%26+Dry+Lab+Research;📊+Data-Driven+Discovery;💡+Innovation+in+Life+Sciences;🎯+Building+Tools+for+BioTech;⚡+High-Performance+Computing+in+Biology)](https://git.io/typing-svg)
 
   <a href="https://drive.google.com/file/d/1udogJnLogZG3-_tfQpZjgN1DnbuN6n0H/view?usp=sharing">
     <img src="https://custom-icon-badges.demolab.com/badge/-Download%20CV-F25278?style=for-the-badge&logo=download&logoColor=white" alt="Download CV"/>
@@ -25,6 +25,7 @@ class ComputationalBiologist:
             "institute": "IISER Mohali"
         }
         self.passions = ["Decoding biological complexity", "Building computational tools", "Collaborating across disciplines"]
+        self.tools = ["Python", "TensorFlow", "Graph Theory", "Wet Lab Techniques"]
 
     def mission(self):
         return "Bridging computation, mathematics, and biology to solve real-world problems 🧬"
@@ -100,11 +101,7 @@ graph TB
 ---
 ### 📈 GitHub Statistics
 
-I’m an active contributor to computational biology projects. Here’s a glimpse of my GitHub journey:
-
-- 🏆 Quickdraw Trophy: For lightning-fast pull request reviews.
-- 📊 Contributions: Over 10 repositories in the past year.
-- 🔥 Streak: 30+ days of consistent coding.
+I’m a dedicated contributor to computational biology projects. Here’s my GitHub story:
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dhana56&theme=juicyfresh&row=1&column=6&no-frame=true&no-bg=false&margin-w=15" width="100%" />
@@ -213,7 +210,7 @@ timeline
 </div> -->
 
 ### 🔬 Research Timeline
-Here’s a visual journey of my research milestones:
+A visual roadmap of my scientific adventures:
 
 ```mermaid
 %%{init: {
@@ -235,8 +232,8 @@ gantt
     axisFormat %Y-%m
     
     section Current Research
-    IBAB PTM Analysis    :active, ptm, 2024-02, 2024-06
-    IIT-B MMI Analysis   :active, mmi, 2024-02, 2024-06
+    IBAB PTM Analysis    :active, ptm, 2024-02, 2024-12
+    IIT-B MMI Analysis   :active, mmi, 2024-02, 2024-12
     
     section Past Research
     Framework Development:done, fw, 2023-07, 2023-10
@@ -244,17 +241,17 @@ gantt
     Initial Study        :done, in, 2022-07, 2022-08
     
     section Major Milestones
-    ML/DL & Scientific writing  :crit, m1, 2024-8, 14d
+    ML/DL & Scientific Writing :crit, m1, 2024-08, 14d
     Framework Complete   :crit, m2, 2023-10, 1d
-    Network Analysis    :crit, m3, 2023-05, 1d
-    Project Start      :crit, m4, 2022-08, 1d
+    Network Analysis     :crit, m3, 2023-05, 1d
+    Project Start        :crit, m4, 2022-08, 1d
 ```
 
 ### 🎓 Research Collaborations
-I’m proud to work with brilliant minds across institutions:
+Teaming up with brilliant minds to decode life’s complexities:
 
 <div align="center"> <table> <tr> <th>Institution</th> <th>Collaborator</th> <th>Research Focus</th> <th>Link</th> </tr> <tr> <td>IBAB & IIT Bombay</td> <td>Dr. Nithya Ramakrishnan & Dr. Sibi Raj B Pillai</td> <td>Histone PTMs & MMI Analysis</td> <td><a href="">In Progress</a></td> </tr> <tr> <td>IISER Mohali & Kolkata</td> <td>Dr. Shashi Bhushan Pandit & Prof. Somdatta Sinha</td> <td>Protein Networks & Phenotypic Effects</td> <td><a href="https://drive.google.com/file/d/1t6SLEwe4P7vpB5SM4vIGjK8HmIwv7yjQ/view?usp=sharing">Poster</a></td> </tr> </table> </div>
 
 ### 🤝 Let's Connect!
 
-<div align="center"> <h3>"Debugging the Code of Life, One Gene at a Time" 🧬</h3> <img src="https://komarev.com/ghpvc/?username=dhana56&style=for-the-badge&color=blueviolet" /> <p>Got an idea, project, or just want to chat about computational biology? I’m all ears—let’s collaborate and decode the future together!</p> <a href="https://instagram.com/pho_dhanaskarvk_7"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="mailto:dhanasekharvk@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://in.linkedin.com/in/dhanasekhar-v-k-975b31253"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </div>
+<div align="center"> <h3>"Debugging the Code of Life, One Gene at a Time" 🧬</h3> <img src="https://komarev.com/ghpvc/?username=dhana56&style=for-the-badge&color=blueviolet" /> <p>Got an idea, a project, or just want to geek out over computational biology? I’m here for it—let’s collaborate and shape the future of life sciences!</p> <a href="https://instagram.com/pho_dhanaskarvk_7"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="mailto:dhanasekharvk@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://in.linkedin.com/in/dhanasekhar-v-k-975b31253"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </div>

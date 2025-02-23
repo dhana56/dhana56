@@ -54,25 +54,30 @@ graph TB
             A1[("Predictive<br/>Modeling")]:::small
             A2[("Pattern<br/>Recognition")]:::small
             A3[("Theoretical<br/>Analysis")]:::small
+            P1["Histone PTM Predictions"] --> A1
+            P2["MMI Feature Selection"] --> A2
         end
         
         subgraph SYS["Systems Biology"]
             S1[("Network<br/>Analysis")]:::small
             S2[("Dynamic<br/>Systems")]:::small
             S3[("Regulatory<br/>Networks")]:::small
+            P3["Protein Contact Networks"] --> S1
         end
         
         subgraph DIS["Disease Biology"]
             D1[("Cancer<br/>Evolution")]:::small
             D2[("Viral<br/>Infection")]:::small
             D3[("Precision<br/>Medicine")]:::small
+            P4["Deep Mutational Scanning"] --> D1
         end
     end
 
-    subgraph APPS[" TRANSLATIONAL  RESEARCH"]
+    subgraph APPS["TRANSLATIONAL RESEARCH"]
         T1{{"Genotype-Phenotype<br/>Mapping"}}:::small
         T2{{"Microbiome<br/>Analysis"}}:::small
         T3{{"Therapeutic<br/>Development"}}:::small
+        P5["Web Framework for Protein Visualization"] --> T3
     end
 
     ALG --> T1
@@ -92,6 +97,7 @@ graph TB
     class S1,S2,S3 system
     class D1,D2,D3 disease
     class T1,T2,T3 apps
+    class P1,P2,P3,P4,P5 apps
 
     linkStyle default stroke:#4a5568,stroke-width:1.5px
 ```
