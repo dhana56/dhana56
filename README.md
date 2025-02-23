@@ -34,9 +34,9 @@ print(me.battle_cry())
 print(f"Mission: {me.vision}")
 
 ```
-##### The Origin Story
+#### The Origin Story
 
-Picture this: a kid with a microscope in one hand and a laptop in the other, dreaming of decoding the universe one base pair at a time. That’s me. I started in the wet lab, mesmerized by DNA’s dance, but then I met Python—and suddenly, biology wasn’t just a science; it was a galaxy of possibilities. Now, I’m a bridge-builder—spanning wet lab benches and GPU clusters, chasing breakthroughs with a pipette and a keyboard. My fuel? Curiosity. My spark? The moment data whispers a secret no one’s heard before.
+I began my journey with a microscope in one hand and a laptop in the other, driven by the desire to decode the universe one base pair at a time. My path led me from traditional wet lab work to computational biology, where I discovered the powerful synergy between Python programming and biological research. Today, I bridge the gap between laboratory benches and GPU clusters, pursuing breakthroughs with both traditional and computational tools. My work is fueled by curiosity and the thrill of uncovering previously unknown patterns in biological data.
 
 ---
 
