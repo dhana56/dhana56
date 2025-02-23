@@ -68,7 +68,7 @@ graph TB
         end
     end
 
-    space[" "]:::space
+    space["  "]:::space
     
     subgraph APPS["TRANSLATIONAL RESEARCH"]
         T1{{"Genotype-Phenotype"}}:::apps
@@ -77,8 +77,6 @@ graph TB
     end
 
     %% Connections with better spacing
-    CORE --> space
-    space --> APPS
     ALG --> T1
     SYS --> T2
     DIS --> T3
