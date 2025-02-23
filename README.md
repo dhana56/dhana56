@@ -1,7 +1,7 @@
 <div align="center">
   <img src="Design.gif" alt="Hi there, I am Dhana" width="100%" />
   
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=F75C7E¢er=true&vCenter=true&width=500&lines=Unraveling+Genomic+Mysteries;🧬+Computational+Biology+Explorer;Code+%2B+Math+%2B+Biology;Building+Tools+for+Life+Sciences)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=🧬+Computational+Biology+Explorer;🔬+Unraveling+Genomic+Mysteries;🤖+ML+%2B+Biology+%2B+Mathematics;🧪+Bridging+Wet+%26+Dry+Lab+Research;📊+Data-Driven+Discovery;💡+Innovation+in+Life+Sciences;🎯+Building+Tools+for+BioTech;⚡+High-Performance+Computing+in+Biology)](https://git.io/typing-svg)
 
   <a href="https://drive.google.com/file/d/1udogJnLogZG3-_tfQpZjgN1DnbuN6n0H/view?usp=sharing">
     <img src="https://custom-icon-badges.demolab.com/badge/-Download%20CV-F25278?style=for-the-badge&logo=download&logoColor=white" alt="Download CV"/>
