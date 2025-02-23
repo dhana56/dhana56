@@ -134,6 +134,7 @@ The gadgets and gizmos powering my interstellar research:
 
 Charging Up: Mastering Python, TensorFlow, and wet-dry lab fusion for a bio-revolution.
 
+---
 ### 🔬 Current Focus
 Here’s what I’m diving into right now:
 ```python
@@ -144,6 +145,7 @@ current_projects = {
     "timeline": "Feb 2024 - Present"
 }
 ```
+
 
 ### 📊 Research Impact & Metrics
 My work is making waves in computational biology:
@@ -207,13 +209,14 @@ gantt
     Network Analysis     :crit, m3, 2023-05, 1d
     Project Start        :crit, m4, 2022-08, 1d
 ```
-
+---
 ### 🌐 Alliance Network
 My crew of co-explorers across the bio-verse:
 
 <div align="center"> <table style="background: #0D1117; border: 2px solid #FF007A; border-radius: 10px;"> <tr style="background: #1a1c2c;"> <th>Base</th> <th>Allies</th> <th>Mission</th> <th>Beacon</th> </tr> <tr> <td>IBAB & IIT Bombay</td> <td>Dr. Nithya R. & Dr. Sibi Raj B. P.</td> <td>PTM & MMI Signal Hunt</td> <td><a href="">Transmitting</a></td> </tr> <tr> <td>IISER Mohali & Kolkata</td> <td>Dr. Shashi B. P. & Prof. Somdatta S.</td> <td>Protein Nets & Phenotype Waves</td> <td><a href="https://drive.google.com/file/d/1t6SLEwe4P7vpB5SM4vIGjK8HmIwv7yjQ/view?usp=sharing">Star Chart</a></td> </tr> </table> </div>
 Alliance Power: These partnerships are fusion reactors—igniting ideas that reshape biology’s frontier.
 
+---
 ### 📡 Intergalactic Comms
 
 <div align="center"> <h3>"Hacking the Helix, One Cosmic Bit at a Time" 🧬</h3> <img src="https://komarev.com/ghpvc/?username=dhana56&style=for-the-badge&color=00D4FF" /> <p>Bio-nerds, code cosmonauts, or dreamers of the unknown—let’s connect! I’m here to swap lab tales, brainstorm bio-hacks, or plot the next galactic discovery. Drop a signal and let’s make science fiction reality.</p> <a href="https://instagram.com/pho_dhanaskarvk_7"><img src="https://img.shields.io/badge/-InstaVerse-FF007A?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="mailto:dhanasekharvk@gmail.com"><img src="https://img.shields.io/badge/-Comms-00D4FF?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://in.linkedin.com/in/dhanasekhar-v-k-975b31253"><img src="https://img.shields.io/badge/-LinkedSpace-4ECDC4?style-for-the-badge&logo=linkedin&logoColor=white"/></a>  </div>
