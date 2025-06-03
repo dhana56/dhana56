@@ -202,6 +202,7 @@ gantt
     Initial Study        :done, in, 2022-07, 2022-08
     
     section Major Milestones
+    IISC BDBio Poster Presentation :crit, m1, 2025-05, 2d
     ML/DL & Scientific Writing :crit, m1, 2024-08, 14d
     Framework Complete   :crit, m2, 2023-10, 1d
     Network Analysis     :crit, m3, 2023-05, 1d
@@ -211,7 +212,7 @@ gantt
 ### 🌐 Alliance Network
 My crew of co-explorers across the bio-verse:
 
-<div align="center"> <table style="background: #0D1117; border: 2px solid #FF007A; border-radius: 10px;"> <tr style="background: #1a1c2c;"> <th>Base</th> <th>Allies</th> <th>Mission</th> <th>Beacon</th> </tr> <tr> <td>IBAB & IIT Bombay</td> <td>Dr. Nithya R. & Dr. Sibi Raj B. P.</td> <td>PTM & MMI Signal Hunt</td> <td><a href="">Transmitting</a></td> </tr> <tr> <td>IISER Mohali & Kolkata</td> <td>Dr. Shashi B. P. & Prof. Somdatta S.</td> <td>Protein Nets & Phenotype Waves</td> <td><a href="https://drive.google.com/file/d/1t6SLEwe4P7vpB5SM4vIGjK8HmIwv7yjQ/view?usp=sharing">Star Chart</a></td> </tr> </table> </div>
+<div align="center"> <table style="background: #0D1117; border: 2px solid #FF007A; border-radius: 10px;"> <tr style="background: #1a1c2c;"> <th>Base</th> <th>Allies</th> <th>Mission</th> <th>Beacon</th> </tr> <tr> <td>IBAB & IIT Bombay</td> <td>Dr. Nithya R. & Dr. Sibi Raj B. P.</td> <td>PTM & MMI Signal Hunt</td> <td><a href="https://drive.google.com/file/d/18XOv5kMV6U07uGaFsjTL5QcL6aHGLPxo/view?usp=sharing"> Star chart</a></td> </tr> <tr> <td>IISER Mohali & Kolkata</td> <td>Dr. Shashi B. P. & Prof. Somdatta S.</td> <td>Protein Nets & Phenotype Waves</td> <td><a href="https://drive.google.com/file/d/1t6SLEwe4P7vpB5SM4vIGjK8HmIwv7yjQ/view?usp=sharing">Star Chart</a></td> </tr> </table> </div>
 Alliance Power: These partnerships are fusion reactors—igniting ideas that reshape biology’s frontier.
 
 ---
