@@ -3,7 +3,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=🧬+Unraveling+Life’s+Code;🔬+Wet+Lab+Wizard+%26+Data+Dynamo;⚡+Supercomputing+Biology’s+Future;🤖+Machine+Learning+Meets+DNA;📡+Transmitting+Insights+Across+Disciplines;💥+Exploding+Genomic+Boundaries;🌌+From+Microscopes+to+Multiverse)](https://git.io/typing-svg)
 
-  <a href="https://drive.google.com/file/d/1udogJnLogZG3-_tfQpZjgN1DnbuN6n0H/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1RTJZ3xUUAivE1AhDsOxn5mTKVx3DXq86/view?usp=sharing">
     <img src="https://custom-icon-badges.demolab.com/badge/-Peek+My+Journey-FF007A?style=for-the-badge&logo=rocket&logoColor=white" alt="Download CV"/>
   </a>
 </div>
